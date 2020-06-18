@@ -10,3 +10,5 @@ It Will Be Very useful since we dont have to make all the changes Manually to co
 this will backup existing host file so no harm will done to your pc.
 
 Cheers!
+
+Requires .NET Framework 4.6

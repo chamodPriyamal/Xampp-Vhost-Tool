@@ -1,0 +1,10 @@
+D:\Projects\Xampp-Vhost-Tool\Xampp Vhost Tool\bin\Debug\Xampp Vhost Tool.exe.config
+D:\Projects\Xampp-Vhost-Tool\Xampp Vhost Tool\bin\Debug\Xampp Vhost Tool.exe
+D:\Projects\Xampp-Vhost-Tool\Xampp Vhost Tool\bin\Debug\Xampp Vhost Tool.pdb
+D:\Projects\Xampp-Vhost-Tool\Xampp Vhost Tool\obj\Debug\Xampp Vhost Tool.csprojAssemblyReference.cache
+D:\Projects\Xampp-Vhost-Tool\Xampp Vhost Tool\obj\Debug\Xampp_Vhost_Tool.Form1.resources
+D:\Projects\Xampp-Vhost-Tool\Xampp Vhost Tool\obj\Debug\Xampp_Vhost_Tool.Properties.Resources.resources
+D:\Projects\Xampp-Vhost-Tool\Xampp Vhost Tool\obj\Debug\Xampp Vhost Tool.csproj.GenerateResource.cache
+D:\Projects\Xampp-Vhost-Tool\Xampp Vhost Tool\obj\Debug\Xampp Vhost Tool.csproj.CoreCompileInputs.cache
+D:\Projects\Xampp-Vhost-Tool\Xampp Vhost Tool\obj\Debug\Xampp Vhost Tool.exe
+D:\Projects\Xampp-Vhost-Tool\Xampp Vhost Tool\obj\Debug\Xampp Vhost Tool.pdb

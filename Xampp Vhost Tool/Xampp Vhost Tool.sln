@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xampp Vhost Tool", "Xampp Vhost Tool.csproj", "{CFFD2C40-30CB-4F0D-BA34-E3CCADE1A796}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFFD2C40-30CB-4F0D-BA34-E3CCADE1A796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFD2C40-30CB-4F0D-BA34-E3CCADE1A796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFD2C40-30CB-4F0D-BA34-E3CCADE1A796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFD2C40-30CB-4F0D-BA34-E3CCADE1A796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7418C502-5F6E-4361-BAF5-538F538C6D93}
+	EndGlobalSection
+EndGlobal
